@@ -1,4 +1,4 @@
-# OpenMRS module bahmnicore
+# OpenMRS module bahmnicore TF
 
 This module provides necessary services for running Bahmni
 

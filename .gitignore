@@ -10,3 +10,13 @@ classes/
 .rubygems
 sass-external
 bahmnicore-omod/src/main/webapp/resources/styles/bahmnicore.css
+.classpath
+.settings
+.project
+target/
+activemq-data/
+.idea/
+*.iml
+*.sass-cache
+*.DS_Store
+/bin/
